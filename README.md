@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MR-TAREK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A small Python programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-tarek-404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-tarek-404" /> </p>
 
