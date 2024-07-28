@@ -5,9 +5,6 @@
 </h3>
 
 <center>
-<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
-<center>
- 
 
 <div align="center">
   <a href="https://t.me//Mr_Tarek_404" target="_blank">
