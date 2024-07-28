@@ -1,19 +1,15 @@
-<br clear="both">
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+    Welcome To My Profile  
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+</h3>
 
-<h2 align="left">Ｗｅｌｃｏｍｅ　ｔｏ　ｍｙ　ｐｒｏｆｉｌｅ</h2>
-
-###
+<center>
+<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
+<center>
+ 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="tarek713601@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://t.me//Mr_Tarek_404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
@@ -21,24 +17,24 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
 </div>
+ 
+━━━━━━━━━━━━━━━━━━━━━━━━
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=ASSALAMUALAIKUM;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+ 
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> MY GITHUB STATS :</i></h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MR-TAREK-404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="218" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-TAREK-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-TAREK-404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MR-TAREK-404.MR-TAREK-404&"  />
-</div>
-
-###
+<table border="1">
+  <tr>
+    <td valign="top"><a href="https://github.com/MR-TAREK-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MR-TAREK-404&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MR-TAREK-404 GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MR-TAREK-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-TAREK-404&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    </a>
+  </tr>
+   <tr>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MR-TAREK-404&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="MR-TAREK GitHub Readme Streak Stats"/> </a>  </td> 
+    
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-TAREK-404&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MR-TAREK-404&label=%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
+<center>
+<a href="https://github.com/MR-TAREK-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR-TAREK-404&theme=monokai"></a>
