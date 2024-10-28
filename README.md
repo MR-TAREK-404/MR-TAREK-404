@@ -10,7 +10,7 @@
   <a href="https://t.me//Mr_Tarek_404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://www.facebook.com/mr.Tarek.404" target="_blank">
+  <a href="https://www.facebook.com/Its.Tarek.404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
 </div>
