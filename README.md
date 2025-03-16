@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
     Welcome To My Profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>
+</h1>
 
 <center>
 
